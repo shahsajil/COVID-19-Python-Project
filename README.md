@@ -20,7 +20,7 @@ Create a GitHub Repo and Start on a Project Plan
 
 REQUIREMENTS TO RUN THE PROJECT:
 
-GitHub
+GitHub,
 Jupyter Notebook
 
 SOURCE:
