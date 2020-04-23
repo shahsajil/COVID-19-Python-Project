@@ -4,25 +4,26 @@ OVERVIEW
 
 COVID-19 Python Project (March 18 2020)
 
-In this project I am using the Covid-19 Coronavirus cases dataset that I extracted from https://www.worldometers.info/coronavirus which is last updated in March 18 2020. My aim is to display the countries with no of new total cases, countries with no of new total deaths, countries with most no of cases and most no of deaths. Comparing the new cases vs new recovered. Finding out the Death ratio of each country vs total cases. Distribution of cases worldwide (China(mainland) vs Other countries).
+In this project I am using the Covid-19 Coronavirus cases dataset that I extracted from https://www.worldometers.info/coronavirus which is last updated in March 18 2020.My aim is to display the countries with number of total new cases, total new deaths and number of cases that is recovered of each countries
 
-TECHNICAL SUMMARY:
+TECHNICAL SUMMARY
 
 Programming Language: Python, SQLite
 
-FEATURES:
+FEATURES
 
-Can show total number of new cases, number of deaths, total number of recovered cases of different countries.
+Displaying total number of new cases, number of deaths of top 25 country using the bar diagram visualization.
+Displaying total recovered, active and serious cases using scatter plot visualization,
 
-MILESTONE:
+REQUIREMENTS TO RUN THE PROJECT
 
-Create a GitHub Repo and Start on a Project Plan
-
-REQUIREMENTS TO RUN THE PROJECT:
-
-GitHub,
+GitHub
 Jupyter Notebook
+pandas
+matplotlib
+plotly
+SQLite
 
-SOURCE:
+SOURCE
 
 https://www.worldometers.info/coronavirus
