@@ -19,12 +19,8 @@ Displaying the total cases(up to date) using the bubble graph.
 
 REQUIREMENTS TO RUN THE PROJECT
 
-GitHub
-Jupyter Notebook
-pandas
-matplotlib
-plotly
-SQLite
+GitHub, Jupyter Notebook, pandas, matplotlib, plotly, SQLite
+
 
 SOURCE
 
